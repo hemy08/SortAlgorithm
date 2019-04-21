@@ -1,0 +1,60 @@
+ arr[0] = 421 
+
+ arr[1] = 50 
+
+ arr[2] = 24 
+
+ arr[3] = 23 
+
+ arr[4] = 16 
+
+ arr[5] = 9 
+
+ arr[6] = 7 
+
+ arr[7] = 5 
+
+ arr[8] = 4 
+
+ arr[9] = 2 
+
+ arr[0] = 2 
+
+ arr[1] = 4 
+
+ arr[2] = 5 
+
+ arr[3] = 7 
+
+ arr[4] = 9 
+
+ arr[5] = 16 
+
+ arr[6] = 23 
+
+ arr[7] = 24 
+
+ arr[8] = 50 
+
+ arr[9] = 421 
+
+ gstArrStudent[0] = {index: 0, name: , age: 0} 
+
+ gstArrStudent[1] = {index: 15, name: Mr.Jack, age: 19} 
+
+ gstArrStudent[2] = {index: 17, name: Mr.Mary, age: 30} 
+
+ gstArrStudent[3] = {index: 19, name: Mr.Bran, age: 21} 
+
+ gstArrStudent[4] = {index: 22, name: Mr.Hem, age: 18} 
+
+ gstArrStudent[5] = {index: 32, name: Mr.Hall, age: 28} 
+
+ gstArrStudent[6] = {index: 43, name: Mr.Haley, age: 22} 
+
+ gstArrStudent[7] = {index: 62, name: Mr.Mark, age: 14} 
+
+ gstArrStudent[8] = {index: 88, name: Mr.Road, age: 25} 
+
+ gstArrStudent[9] = {index: 91, name: Ms.Jack, age: 21} 
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/myCodeHub/SortAlgorithm/SortTest/Debug.h
+
+E:/myCodeHub/SortAlgorithm/SortTest/SortTest.c
+SortTest.h
+E:/myCodeHub/SortAlgorithm/SortTest/SortTest.h
+Debug.h
+E:/myCodeHub/SortAlgorithm/SortTest/Debug.h
+../src/sort_api.h
+E:/myCodeHub/SortAlgorithm/src/sort_api.h
+string.h
+-
+stdio.h
+-
+
+E:/myCodeHub/SortAlgorithm/SortTest/SortTest.h
+
+E:/myCodeHub/SortAlgorithm/src/sort_api.h
+
